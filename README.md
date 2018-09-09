@@ -2,7 +2,7 @@
 Useful Tools for Bakers
 
 ## Make multiple payments - makePayments.sh
-To use the bash payment script create a payment.txt in the same directory and each line of the file should be a node payment command. This is an example file below:
+To use the bash payment script, create a payment.txt file in the same directory and each line of the file should be a node payment statement. This is an example file below:
 
 payment.txt file example
 tezos-client transfer 1 from TezBaker to address1 --fee 0
