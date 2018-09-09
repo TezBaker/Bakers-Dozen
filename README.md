@@ -10,7 +10,7 @@ tezos-client transfer 2 from TezBaker to address2 --fee 0
 tezos-client transfer 3 from TezBaker to address3 --fee 0
 
 
-Run the script and will prompt for password only once. This does not speed up payments as it currently take one block per payment.
+Run the script and will prompt for password only once. This does not speed up payments as it currently takes one block per payment.
 ```
 ./makePayments.sh
 ```
