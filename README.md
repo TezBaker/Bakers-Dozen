@@ -1,7 +1,7 @@
 # Bakers-Dozen
 Useful Tools for Bakers
 
-## Make multiple payments script - makePayments.sh
+## Make multiple payments - makePayments.sh
 To use the expect payment script create a payment.txt in the same directory of the script file of node payments for example:
 
 payment.txt file example
