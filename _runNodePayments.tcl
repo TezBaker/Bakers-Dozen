@@ -2,8 +2,6 @@
 set timeout 200
 
 
-set rootdir $::env(HOME) 
-set currentdir pwd
 set payments [ file join payments.txt ]
 set fh [ open $payments r ]
 set password [lindex $argv 0]
