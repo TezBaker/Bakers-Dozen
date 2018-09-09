@@ -14,3 +14,5 @@ Run the script and will prompt for password only once. This does not speed up pa
 ```
 ./makePayments.sh
 ```
+
+The bash script prompts for a password and passes it to an expect script which loops for every line in the payments file.
