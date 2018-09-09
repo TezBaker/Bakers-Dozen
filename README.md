@@ -5,8 +5,11 @@ Useful Tools for Bakers
 To use the bash payment script, create a payment.txt file in the same directory and each line of the file should be a node payment statement. This is an example file below:
 
 payment.txt file example
+
 tezos-client transfer 1 from TezBaker to address1 --fee 0
+
 tezos-client transfer 2 from TezBaker to address2 --fee 0
+
 tezos-client transfer 3 from TezBaker to address3 --fee 0
 
 
