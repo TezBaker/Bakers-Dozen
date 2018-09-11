@@ -17,3 +17,12 @@ Run the script and it will only prompt you for the encryption key password once.
 ```
 
 The bash script prompts for a password and passes it to an expect script (_runNodePayments.tcl) which loops for every line in the payments file.
+
+## Google Baking Sheet (Beta - feedback welcome)
+
+Just in beta but would be good to get some initial feedback. You need to make a copy before you can use it. You set the parameters in the top left panel on the summary sheet and run the scripts under the Rewards menu. The scripts may
+timeout with a large baker but you can filter on your address. 
+
+It is mainly a tool for bakers to generate their payments but you can also filter your account to see your own payments.
+
+https://docs.google.com/spreadsheets/d/1UL0zZiQnpnEnGr5T2Qp_5aZJvgIGp0Ce538cSA_1hds/edit?usp=sharing
