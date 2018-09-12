@@ -11,7 +11,7 @@ sudo apt-get -y install expect
 
 You also need to add the tezos directory to your path so the script can be run from anywhere. Add the following to your .profile
 ```
-if [ -d "$HOME/bin" ] ; then
+if [ -d "$HOME/tezos" ] ; then
 PATH="$PATH:$HOME/tezos"
 fi
 ```
