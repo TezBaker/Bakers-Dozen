@@ -1,7 +1,19 @@
 # Bakers-Dozen
 Useful Tools for Bakers
 
-## Make multiple payments - makePayments.sh
+## Make multiple payments - makePayments.sh (tested on Ubuntu 18.4)
+First you need to install expect 
+
+````
+sudo apt-get update
+sudo apt-get -y install expect
+```
+
+You also need to add the tezos directory to your path so the script can be run from anywhere. Add the following to your .profile
+if [ -d "$HOME/bin" ] ; then
+PATH="$PATH:$HOME/tezos"
+fi
+
 To use the bash payment script, create a payment.txt file in the same directory and each line of the file should be a node payment statement. This is an example file below:
 
 payment.txt file example
