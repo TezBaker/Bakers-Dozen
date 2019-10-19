@@ -43,12 +43,19 @@ https://docs.google.com/spreadsheets/d/1scqNd9tM5iEkd2M-_pCTx5OGy1hNvvouDSXqDjdQ
 ### Fields
  
 Start and End Cycle Rewards – Go and get rewards between for these cycles (_rewards sheet)
+
 Start and End Cycle Payments – Go and get the rewards for each delegate and compute the payment amount (_cycle payments sheet)
+
 Default Fee – If a fee has not been specified for an address then use this default fee
+
 Baker Address – The baker address that rewards will be calculated from
-Payment Address – This address is used to create the Tezos command (k column on _cycle payments sheet)
+
+ayment Address – This address is used to create the Tezos command (k column on _cycle payments sheet)
+
 Delegate Filter – You can filter by one delegate address, so this is useful for a delegate to check their rewards
+
 Cycles Per Year – We use this to calculate the APR
+
 Network Fee – This is used to subtract of the delegates reward to cover their fee cost for the transaction
 
 
