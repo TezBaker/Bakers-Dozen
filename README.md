@@ -48,13 +48,13 @@ Start and End Cycle Payments – Go and get the rewards for each delegate and co
 
 Default Fee – If a fee has not been specified for an address then use this default fee
 
-Baker Address – The baker address that rewards will be calculated from
+Baker Address – The baker address that rewards will be calculated
 
-ayment Address – This address is used to create the Tezos command (k column on _cycle payments sheet)
+Payment Address – This address is used to create the Tezos command (k column on _cycle payments sheet)
 
-Delegate Filter – You can filter by one delegate address, so this is useful for a delegate to check their rewards
+Delegate Filter – Can filter by one delegate address, this is useful for a delegate to check their rewards
 
-Cycles Per Year – We use this to calculate the APR
+Cycles Per Year – This is used to calculate the APR
 
 Network Fee – This is used to subtract of the delegates reward to cover their fee cost for the transaction
 
