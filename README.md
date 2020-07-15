@@ -38,7 +38,7 @@ You need to make a copy of the sheet before you can use it. You set the paramete
 It is mainly a tool for bakers to generate their payments but you can also filter your account to see your own payments.
 
 
-https://docs.google.com/spreadsheets/d/1scqNd9tM5iEkd2M-_pCTx5OGy1hNvvouDSXqDjdQn2s/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1mUVa2AtYG1Ga3KPkc6CxSOqa2e4glNimNzuu_ZnITvg/edit?usp=sharing
 
 ### Fields
  
